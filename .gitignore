@@ -1,5 +1,5 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+*.json
+!package.json
+node_modules
+pnpm-lock.yaml
+.env
