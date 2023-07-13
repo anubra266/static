@@ -1,4 +1,4 @@
 # static
 Host for static files
 
-https://cdn.jsdelivr.net/gh/anubra266/static/README.md
+![w](https://cdn.jsdelivr.net/gh/anubra266/static@main/sponsors.svg)
